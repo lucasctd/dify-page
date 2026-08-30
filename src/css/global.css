@@ -1,0 +1,8 @@
+.titulo-secao {
+  color: red !important;
+}
+
+/* Mantém a compatibilidade com a cor original em casos de herança */
+.titulo-secao:hover {
+  color: #cc0000;
+}
